@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t1",
+    "name": "TANMAY JANA",
+    "role": "Bride, Cold Spring Wedding",
+    "quote": "An excellent academic by Bapan photography! I've done lots of monochrome photography over the year,I learned a lot from this. Overall experience good. Specially thanks to Bapan da ❤️",
+    "rating": 5,
+    "image": "/images/testimonials/priya-nair.jpg"
+  },
+  {
+    "id": "t2",
+    "name": "Daniel Osei",
+    "role": "Creative Director, Fen & Co.",
+    "quote": "We hired Marlowe for an editorial campaign expecting polish. What we got was polish with a pulse — every frame felt lived-in rather than staged.",
+    "rating": 5,
+    "image": "/images/testimonials/daniel-osei.jpg"
+  },
+  {
+    "id": "t3",
+    "name": "Sofia Marchetti",
+    "role": "Portrait Client",
+    "quote": "I've never liked photos of myself until this session. She made the whole thing feel like a conversation, not a shoot.",
+    "rating": 5,
+    "image": "/images/testimonials/sofia-marchetti.jpg"
+  },
+  {
+    "id": "t4",
+    "name": "James Whitfield",
+    "role": "Student, Seeing in 35mm",
+    "quote": "Four sessions completely changed how I look at light. I came in with a camera I was scared of and left with a set of negatives I'm proud of.",
+    "rating": 5,
+    "image": "/images/testimonials/james-whitfield.jpg"
+  },
+  {
+    "id": "t5",
+    "name": "Renata Alves",
+    "role": "Groom's Mother",
+    "quote": "The gallery arrived faster than any photographer we've used before, and every single image was one we wanted to print.",
+    "rating": 5,
+    "image": "/images/testimonials/renata-alves.jpg"
+  }
+]
