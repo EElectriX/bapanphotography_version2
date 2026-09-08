@@ -1,4 +1,4 @@
-# Marlowe Reyes Photography — Portfolio Site
+# Bapan Photography — Portfolio Site
 
 A React + Vite portfolio for a portrait/editorial/documentary photographer:
 gallery with filtering + lightbox, a markdown-powered journal, a booking
